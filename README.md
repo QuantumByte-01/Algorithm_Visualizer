@@ -37,7 +37,7 @@ pip install numpy matplotlib scikit-learn
 3. Run the script using Python:
 
 ```
-python algorithm_visualizer.py
+python3 algorithm_visualizer.py
 ```
 
 ## Usage
